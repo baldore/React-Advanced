@@ -1,13 +1,13 @@
 import React from 'react';
 import Link from 'next/link';
 
-const Home = () => (
+const Sell = () => (
   <div>
     <p>hey!</p>
-    <Link href="/sell">
-      <a>Sell!</a>
+    <Link href="/">
+      <a>Home!</a>
     </Link>
   </div>
 );
 
-export default Home;
+export default Sell;
