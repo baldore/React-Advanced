@@ -3,10 +3,7 @@ import Link from 'next/link';
 
 const Sell = () => (
   <div>
-    <p>hey!</p>
-    <Link href="/">
-      <a>Home!</a>
-    </Link>
+    <p>Sell Page!</p>
   </div>
 );
 
