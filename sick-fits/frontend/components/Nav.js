@@ -16,7 +16,7 @@ const Nav = () => (
       <a>Orders</a>
     </Link>
     <Link href="/me">
-      <a>Me</a>
+      <a>Account</a>
     </Link>
   </NavStyles>
 );
